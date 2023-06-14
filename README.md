@@ -22,3 +22,11 @@ The Bank Transaction Website is built using the following technologies:
 Front-end: HTML, CSS, JavaScript
 Back-end: Python, Flask (a micro web framework)
 Database: SQLite (a lightweight relational database management system)
+
+License
+The Bank Transaction Website is open-source software licensed under the MIT License.
+
+Contact
+If you have any questions or suggestions regarding the Bank Transaction Website, feel free to contact us at support@banktransactionwebsite.com.
+
+We hope you enjoy using the Bank Transaction Website!
